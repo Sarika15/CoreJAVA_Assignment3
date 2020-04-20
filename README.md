@@ -1,4 +1,4 @@
-# CoreJAVA_Assignments
+# CoreJAVA_Assignment3_Problem_Statement
 Create two interfaces IMobile and ITelephone and have common functionalities like Dial in them.
 
 Create a class called as Mobile inherited from both the interfaces
